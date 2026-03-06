@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Application</string>
+    <string name="add_person">Add Person</string>
+    <string name="edit_person">Edit Person</string>
+    <string name="btn_save">SAVE</string>
+    <string name="empty_person_list">Chưa có dữ liệu. Nhấn (+) để thêm.</string>
+</resources>
