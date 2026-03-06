@@ -1,0 +1,83 @@
+2026-03-02 15:12:55 info: Congratulations, your extension "Embold" is now active!
+2026-03-02 15:12:55 info: ************* init ****************
+2026-03-02 15:12:55 info: tempDirectory : c:\Users\ADMIN\.vscode\extensions\embold-vscode.embold-0.3.7\temp
+2026-03-02 15:12:57 info: Extraction complete for source: c:\Users\ADMIN\.vscode\extensions\embold-vscode.embold-0.3.7\resources\embold-scanner-archive.zip, destination: c:\Users\ADMIN\.vscode\extensions\embold-vscode.embold-0.3.7\temp
+2026-03-02 15:12:57 info: Extension installed on machine OS : win32
+2026-03-02 15:12:57 info: Loading issues from local database on startup (checkbox unchecked)
+2026-03-02 15:12:57 info: Using emboldDBDir: d:\Lab10\.embold
+2026-03-02 15:12:57 info: NO_PROXY set from VS Code http.noProxy: 
+2026-03-02 15:12:57 info: NODE_TLS_REJECT_UNAUTHORIZED not set (SSL verification enabled)
+2026-03-02 15:12:57 info: Using system certificates for SSL verification
+2026-03-02 15:12:57 info: [STARTUP] Processing 0 total issues from database
+2026-03-02 15:12:57 info: [STARTUP] Issues sorted by file path
+2026-03-02 15:12:57 info: [STARTUP] Complete - Processed: 0, Skipped: 0
+2026-03-02 15:12:57 info: Fetched the issues from DB
+2026-03-02 15:12:57 info: Java version installed on machine : 
+java version "21.0.7" 2025-04-15 LTS
+Java(TM) SE Runtime Environment (build 21.0.7+8-LTS-245)
+Java HotSpot(TM) 64-Bit Server VM (build 21.0.7+8-LTS-245, mixed mode, sharing)
+
+2026-03-02 15:12:57 info: Java installed on machine.
+2026-03-02 15:12:58 info: Embold extension version response:{"hasSupport":false,"version":"0.2.1","changeNotes":"<div> <p>Release Date: 30 Apr, 2025 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2026-03-02 15:12:58 info: Current installed embold extension version : 0.3.7
+2026-03-02 15:12:58 info: Latest embold extension version on marketplace : 0.2.1
+2026-03-02 15:12:58 info: Current extension version: 0.3.7
+2026-03-02 15:12:58 info: Stored extension version: 
+2026-03-02 15:12:58 info: New installation or upgrade detected. Tracking plugin activation.
+2026-03-02 15:12:58 info: Plugin activation activity tracked successfully.
+2026-03-02 15:12:58 info: Stored version updated to the current version.
+2026-03-02 15:13:00 info: ******************* Activity tracked successfully: Activity tracked successfully
+2026-03-02 16:22:58 info: Congratulations, your extension "Embold" is now active!
+2026-03-02 16:22:58 info: ************* init ****************
+2026-03-02 16:22:58 info: tempDirectory : c:\Users\ADMIN\.vscode\extensions\embold-vscode.embold-0.3.7\temp
+2026-03-02 16:23:00 info: Extraction complete for source: c:\Users\ADMIN\.vscode\extensions\embold-vscode.embold-0.3.7\resources\embold-scanner-archive.zip, destination: c:\Users\ADMIN\.vscode\extensions\embold-vscode.embold-0.3.7\temp
+2026-03-02 16:23:00 info: Extension installed on machine OS : win32
+2026-03-02 16:23:00 info: Loading issues from local database on startup (checkbox unchecked)
+2026-03-02 16:23:00 info: Using emboldDBDir: d:\Lab10\.embold
+2026-03-02 16:23:00 info: NO_PROXY set from VS Code http.noProxy: 
+2026-03-02 16:23:00 info: NODE_TLS_REJECT_UNAUTHORIZED not set (SSL verification enabled)
+2026-03-02 16:23:00 info: Using system certificates for SSL verification
+2026-03-02 16:23:00 info: [STARTUP] Processing 0 total issues from database
+2026-03-02 16:23:00 info: [STARTUP] Issues sorted by file path
+2026-03-02 16:23:00 info: [STARTUP] Complete - Processed: 0, Skipped: 0
+2026-03-02 16:23:00 info: Fetched the issues from DB
+2026-03-02 16:23:01 info: Java version installed on machine : 
+java version "21.0.7" 2025-04-15 LTS
+Java(TM) SE Runtime Environment (build 21.0.7+8-LTS-245)
+Java HotSpot(TM) 64-Bit Server VM (build 21.0.7+8-LTS-245, mixed mode, sharing)
+
+2026-03-02 16:23:01 info: Java installed on machine.
+2026-03-02 16:23:01 info: Embold extension version response:{"hasSupport":false,"version":"0.2.1","changeNotes":"<div> <p>Release Date: 30 Apr, 2025 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2026-03-02 16:23:01 info: Current installed embold extension version : 0.3.7
+2026-03-02 16:23:01 info: Latest embold extension version on marketplace : 0.2.1
+2026-03-02 16:23:01 info: Current extension version: 0.3.7
+2026-03-02 16:23:01 info: Stored extension version: 0.3.7
+2026-03-02 16:23:01 info: No new installation or upgrade detected. Skipping plugin activation tracking.
+2026-03-02 16:26:06 info: Row(s) deleted
+2026-03-02 16:35:59 info: Row(s) deleted
+2026-03-02 16:35:59 info: Row(s) deleted
+2026-03-02 16:35:59 info: Row(s) deleted
+2026-03-02 16:36:00 info: Row(s) deleted
+2026-03-02 16:36:00 info: Row(s) deleted
+2026-03-02 16:36:00 info: Row(s) deleted
+2026-03-02 16:36:03 info: Row(s) deleted
+2026-03-02 16:36:03 info: Row(s) deleted
+2026-03-02 16:36:03 info: Row(s) deleted
+2026-03-02 16:36:03 info: Row(s) deleted
+2026-03-02 16:36:03 info: Row(s) deleted
+2026-03-02 16:36:03 info: Row(s) deleted
+2026-03-02 16:36:08 info: Row(s) deleted
+2026-03-02 16:36:08 info: Row(s) deleted
+2026-03-02 16:36:20 info: Row(s) deleted
+2026-03-02 16:36:21 info: Row(s) deleted
+2026-03-02 16:40:07 info: Row(s) deleted
+2026-03-02 16:40:07 info: Row(s) deleted
+2026-03-02 16:40:07 info: Row(s) deleted
+2026-03-02 16:40:07 info: Row(s) deleted
+2026-03-02 16:40:07 info: Row(s) deleted
+2026-03-02 16:40:07 info: Row(s) deleted
+2026-03-02 16:40:10 info: Row(s) deleted
+2026-03-02 16:40:10 info: Row(s) deleted
+2026-03-02 16:40:10 info: Row(s) deleted
+2026-03-02 16:40:10 info: Row(s) deleted
+2026-03-02 16:40:10 info: Row(s) deleted
